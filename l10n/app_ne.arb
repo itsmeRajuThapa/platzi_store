@@ -1,0 +1,12 @@
+{
+    "@_Introduction_Screen_":"============ Introduction Screen ================",
+
+    "category" : "श्रेणी",
+
+  "all": "सबै उत्पादन",
+  "wishlist": "इच्छा सुची",
+  "cart": "कार्",
+  "process": "प्रक्रिया",
+  "totalprice":"कुल रकम"
+
+}

@@ -1,0 +1,9 @@
+{
+    "@_Introduction_Screen_": "============ Introduction Screen ================",
+    "category": "Category",
+    "all": "All Product",
+    "wishlist": "WishList",
+    "cart": "Cart",
+    "process": "Process",
+    "totalprice": "Total Price"
+}
